@@ -1,4 +1,4 @@
-# Android-News-with-Cards
+# Android-News using RecyclerViews and CardViews
 
 This example show how to use RecyclerView with CardViews and the library [Glide](https://github.com/bumptech/glide) which is used to display the news cover images.
 
